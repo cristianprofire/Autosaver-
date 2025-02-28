@@ -1,0 +1,6 @@
+git init
+git add AutoSaver.py
+git commit -m "Добавлен модуль AutoSaver для Hikka"
+git branch -M main
+git remote add origin https://github.com/Твой_Ник/Hikka-AutoSaver.git
+git push -u origin main
